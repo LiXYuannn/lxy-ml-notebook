@@ -3,7 +3,7 @@
   ** To take down my progress💖 **
 
 ## 📚 Theory Notes
-- [Math Basics](/theory/math-basics/)  
+- [Math Basics](/theory/math-basic/)  
 - [Model Theories](/theory/machine-learning-models/)  
 
 ## 💻 Code Labs & Projects

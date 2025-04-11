@@ -4,7 +4,7 @@
 
 ## 📚 Theory Notes
 - [Math Basics](/theory/math-basic/)  
-- [Model Theories](/theory/machine-learning-models/)  
+- [Model Theories](/theory/study-abstraction/)  
 
 ## 💻 Code Labs & Projects
 - [Quick Labs](/code/labs/)  
